@@ -1,0 +1,57 @@
+title: SEND Lab
+subtitle: Stress, Environment, and Neurodevelopment Lab
+description: >
+  The SEND Lab, directed by Dr. Ashley Sanders in the Department of Psychology
+  at the University of Georgia, studies how socioeconomic disadvantage and
+  adversity shape brain development in children and adolescents.
+url: "https://sendlab-uga.github.io"   # <-- update once your org/repo name is set
+baseurl: ""
+
+# ---- Branding ----
+brand_color: "#06402B"     # hunter green — matches lab brochures/materials
+brand_font: "Calibri, 'Segoe UI', sans-serif"
+
+# ---- Contact / social ----
+email: sendlab@uga.edu     # <-- update
+address: "Department of Psychology, University of Georgia, Athens, GA"
+
+# ---- Nav ----
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: People
+    url: /people/
+  - title: Publications
+    url: /publications/
+  - title: Lab Manual
+    url: /manual/
+  - title: Join Us
+    url: /join/
+
+markdown: kramdown
+theme: minima          # swap for jekyll-theme-minimal or a custom _layouts setup later
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  manual:
+    output: true
+    permalink: /manual/:path/
+  members:
+    output: true
+    permalink: /people/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: manual
+    values:
+      layout: manual-page
+  - scope:
+      path: ""
+      type: members
+    values:
+      layout: member

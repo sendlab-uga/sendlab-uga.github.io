@@ -1,0 +1,48 @@
+---
+---
+@import "minima";
+
+:root {
+  --brand: {{ site.brand_color }};
+  --brand-dark: #04301f;
+  --brand-tint: #e8f0ec;
+}
+
+body {
+  font-family: {{ site.brand_font }};
+}
+
+.site-header, .site-footer {
+  background-color: var(--brand);
+}
+
+.site-title, .site-nav .page-link {
+  color: #ffffff !important;
+}
+
+a {
+  color: var(--brand);
+}
+a:hover {
+  color: var(--brand-dark);
+}
+
+h1, h2, h3 {
+  color: var(--brand-dark);
+}
+
+.btn, .button {
+  background-color: var(--brand);
+  color: #fff;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.manual-toc {
+  background: var(--brand-tint);
+  border-left: 4px solid var(--brand);
+  padding: 1em 1.5em;
+  border-radius: 4px;
+}
