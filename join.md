@@ -7,13 +7,10 @@ permalink: /join/
 ## Join the SEND Lab
 
 We welcome inquiries from prospective graduate students, postdocs, and
-undergraduate research assistants interested in developmental neuroscience,
-socioeconomic disadvantage, and adversity.
+undergraduate research assistants interested in developmental/cognitive neuroscience,
+socioeconomic disadvantage, and stress.
 
-- **Prospective graduate students:** apply through the UGA Psychology
-  Department's clinical/developmental program and mention your interest in
-  the SEND Lab in your statement.
-- **Undergraduate research assistants:** email {{ site.email }} with your
-  resume/CV and availability.
+- **Prospective graduate students:** Please refer to the UGA Department of Psychology's [How to Apply] (https://psychology.uga.edu/how-apply-our-graduate-programs) page. Apply via [UGA's Graduate School] (https://grad.uga.edu/admissions/apply-now/) and submit a [Supplemental Application] (https://docs.google.com/forms/d/e/1FAIpQLSf_vkIwNxNCXV4CvJsyoLVhbdaCdX8Bv4LOgUEp_Y9PTqZrxw/viewform?pli=1) via the Department of Psychology. 
+- **Undergraduate research assistants:** Please visit the [SEND Lab]'s (https://www.ugasendlab.com/) website, and navigate to [Join Our Team] (https://www.ugasendlab.com/join-our-team) to submit an application.
 
 New members should also review the [Lab Manual](/manual/) before their first day.
