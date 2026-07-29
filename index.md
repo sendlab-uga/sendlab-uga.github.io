@@ -3,18 +3,14 @@ layout: home
 title: Home
 ---
 
-## Welcome to the SEND Lab
+## SEND Lab — Internal Site
 
-The **Stress, Environment, and Neurodevelopment (SEND) Lab**, directed by
-**Dr. Ashley Sanders** in the Department of Psychology at the University of Georgia, studies how stressors associated with socioeconomic disadvantage shape brain and cognitive development across childhood and
-adolescence.
+This site holds internal resources for current members of the **Stress,
+Environment, and Neurodevelopment (SEND) Lab** — the lab manual, onboarding
+materials, and other member-facing documentation.
 
-We use task-based and resting-state fMRI, DTI, structural MRI, and biological
-markers (inflammatory) alongside large longitudinal datasets —
-including our own cohorts and large, publically available ones — to understand these pathways.
+Looking for the lab's research, team, and publications? Visit our public
+site: **[ugasendlab.com](https://www.ugasendlab.com/)**
 
-- [Our research](/research/)
-- [Meet the team](/people/)
-- [Publications](/publications/)
-- [Lab manual](/manual/) (for current lab members)
-- [Join the lab](/join/)
+- [Lab manual](/manual/)
+- [Team resources](/people/)
