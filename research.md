@@ -11,9 +11,9 @@ neurodevelopment in children and adolescents, using:
 
 - Task-based and resting-state fMRI
 - Diffusion tensor imaging (DTI) and structural MRI
-- Inflammatory and epigenetic biomarkers
+- Inflammatory biomarkers (e.g., cytokines)
 - Large-scale longitudinal datasets, including the **ABCD Study** and our own
-  cohorts (e.g., **My World My Heart**)
+  cohorts
 
 ### Current projects
 
